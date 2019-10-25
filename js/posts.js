@@ -1,1 +1,1 @@
-[{"title":"HTML5新结构化标签","date":"2019.10.24","uri":"2019/10/24/HTML5新结构化标签/","excerpt":""},{"title":"box布局","date":"2019.10.24","uri":"2019/10/24/new/","excerpt":""}]
+[{"title":"HTML5新结构化标签","date":"2019.10.24","uri":"2019/10/24/HTML5新结构化标签/","excerpt":""},{"title":"box布局","date":"2019.10.24","uri":"2019/10/24/new/","excerpt":""},{"title":"md学习","date":"2019.10.25","uri":"2019/10/25/md学习/","excerpt":""}]
